@@ -1,0 +1,1 @@
+class PasswordsController < ActionController::Base
